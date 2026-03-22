@@ -61,7 +61,7 @@ TIC TAC TOE/
 
 ## 📸 Screenshot
 
-
+![Game Screenshot](https://github.com/madupojumounika/tic-tac-toe/blob/be949b9224ff44044fb01392fe132d4fa09f5da7/img.png)
 ---
 
 ## 🔮 Future Improvements
